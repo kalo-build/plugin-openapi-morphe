@@ -1,0 +1,2 @@
+testdata/**/*.str text eol=lf
+testdata/**/*.enum text eol=lf
